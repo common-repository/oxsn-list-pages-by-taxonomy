@@ -1,0 +1,135 @@
+.oxsn-settings-page {
+
+}
+
+.cursor_initial {
+	cursor: initial !important;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.width_25pr {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 25%;
+}
+
+@media (max-width: 768px) {
+	.width_25pr {
+		width: 100%;
+	}
+}
+
+.width_40pr {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 40%;
+}
+
+@media (max-width: 768px) {
+	.width_40pr {
+		width: 100%;
+	}
+}
+
+.width_50pr {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 50%;
+}
+
+@media (max-width: 768px) {
+	.width_50pr {
+		width: 100%;
+	}
+}
+
+.width_60pr {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 60%;
+}
+
+@media (max-width: 768px) {
+	.width_60pr {
+		width: 100%;
+	}
+}
+
+.width_75pr {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 75%;
+}
+
+@media (max-width: 768px) {
+	.width_75pr {
+		width: 100%;
+	}
+}
+
+.width_100pr {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 100%;
+}
+
+.padding_left_10px {
+	padding-left: 10px;
+}
+
+@media (max-width: 768px) {
+	.padding_left_10px {
+		padding-left: 0px;
+	}
+}
+
+.padding_left_20px {
+	padding-left: 20px;
+}
+
+@media (max-width: 768px) {
+	.padding_left_20px {
+		padding-left: 0px;
+	}
+}
+
+.padding_right_10px {
+	padding-right: 10px;
+}
+
+@media (max-width: 768px) {
+	.padding_right_10px {
+		padding-right: 0px;
+	}
+}
+
+.padding_right_20px {
+	padding-right: 20px;
+}
+
+@media (max-width: 768px) {
+	.padding_right_20px {
+		padding-right: 0px;
+	}
+}
+
+.padding_bottom_20px {
+	padding-bottom: 20px;
+}
+
+.padding_top_20px {
+	padding-top: 20px;
+}
